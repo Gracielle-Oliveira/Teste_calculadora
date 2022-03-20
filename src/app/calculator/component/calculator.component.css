@@ -1,0 +1,28 @@
+.container-fluid{
+    text-align: center;
+    background-color: antiquewhite;
+    padding: 10%;
+}
+
+h3{
+    margin-left: 5%;
+}
+
+.kz-btn {
+    width: 100%;
+    margin: 5% 0 5% 0%;
+}
+
+.kz-pad-20 {
+	padding: 20px;
+    margin-top: 2%;
+    background: rgb(19, 90, 131);
+}
+
+.col-xs-8{
+    margin-left: 35%;
+}
+
+.col-xs-3, .col-xs-9 {
+	padding: 1%;
+}
